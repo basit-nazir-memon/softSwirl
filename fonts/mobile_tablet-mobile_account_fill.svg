@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="24px" viewBox="0 0 20 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Account</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HEADER---Signed-In" transform="translate(-289.000000, -24.000000)" fill="#F04DA3">
+            <g id="Account" transform="translate(289.000000, 24.000000)">
+                <path d="M20,24 C20,18.4771525 15.5228475,14 10,14 C4.4771525,14 0,18.4771525 0,24 C5.5405426,24 12.8695361,24 20,24 Z" id="Body"></path>
+                <circle id="Head" cx="10" cy="6" r="6"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
